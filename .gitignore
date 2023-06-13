@@ -1,0 +1,37 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled dynamic-link libraries (DLL)
+*.dll
+*.so
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.sln
+
+# Visual Studio files and folders
+.vs/
+*.suo
+*.sln.user
+*.vcxproj
+**/*.vcxproj.user
+**/*.vcxproj.filters
+
+*.pdb
+*.idb
+*.ipch/
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+
+# Compiled static libraries
+*.lib
+
+# macOS generated files
+.DS_Store
