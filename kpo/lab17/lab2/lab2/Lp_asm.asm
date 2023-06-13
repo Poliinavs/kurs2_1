@@ -1,0 +1,13 @@
+.586;
+.model flat,stdcall;
+includelib kernel32.lib;
+ExitProcess PROTO :DWORD;
+.stack 4096;
+.const;
+.data;
+.code;
+main PROC ;
+push -1;
+call ExitProcess;
+main ENDP;
+end main;
