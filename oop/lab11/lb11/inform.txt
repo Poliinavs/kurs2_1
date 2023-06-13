@@ -1,0 +1,39 @@
+-------------------------------------------1
+Имя сбоки, в котор определен класс= lb11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+-------------------------------------------2
+Публичные конструкторы: 
+Void .ctor()
+Void .ctor(System.String)
+-------------------------------------------3
+Публичные методы: 
+System.String get_Inf()
+Void set_Inf(System.String)
+Void Show(System.Collections.Generic.List`1[System.String])
+System.String ToString()
+System.Type GetType()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+-------------------------------------------4
+Интерфейсы: 
+lb11.Interface1
+-------------------------------------------6
+-------------------------------------------7
+-------------------------------------------1
+Имя сбоки, в котор определен класс= lb11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+-------------------------------------------2
+Публичные конструкторы: 
+Void .ctor()
+Void .ctor(System.String)
+-------------------------------------------3
+Публичные методы: 
+System.String get_Name()
+Void set_Name(System.String)
+Void FIOS(System.Collections.Generic.List`1[System.String])
+System.String ToString()
+System.Type GetType()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+-------------------------------------------4
+Интерфейсы: 
+-------------------------------------------6
+-------------------------------------------7

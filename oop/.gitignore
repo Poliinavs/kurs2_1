@@ -1,0 +1,43 @@
+# Папки сборки и кэша
+bin/
+obj/
+Debug/
+Release/
+
+# Файлы настроек среды разработки
+*.suo
+*.user
+*.sln.docstates
+
+# Файлы проекта Visual Studio
+*.csproj.user
+*.xaml.cs
+*.xaml.p.cs
+*.xaml.g.cs
+*.xaml.obj
+
+# Файлы отладки
+*.pdb
+*.dll.mdb
+
+# Временные файлы
+[Tt]humbs.db
+*.DS_Store
+*.bak
+*~
+*.csproj
+# Пакеты NuGet
+packages/
+
+# Символические ссылки
+*.sln
+*.vcxproj
+*.vcproj
+*.proj
+*.dbmdl
+*.sqlproj
+*.rdlc
+
+# Логи сборки
+msbuild.log
+msbuild.err

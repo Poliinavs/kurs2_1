@@ -1,0 +1,12 @@
+Session:31.10.2022 17:01:01
+Disk label: Acer
+Disk free space 71980310528
+Disk space 254863732736
+Disk Name: C:\
+Дата последнего изменения 31.10.2022 17:01:01
+Имя APVLog.txt
+Расширение .txt
+Размер 0
+Путь:C:\instit\kurs2\oop\lab12\lb12\APVLog.txt
+GetFileInfo
+

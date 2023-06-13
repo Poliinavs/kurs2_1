@@ -1,0 +1,9 @@
+Directories: 
+C:\instit\kurs2\oop\lab12\APVInspect
+C:\instit\kurs2\oop\lab12\lb12
+C:\instit\kurs2\oop\lab12\newName.txt
+Files: 
+C:\instit\kurs2\oop\lab12\12_Потоки_файловая система.pdf
+C:\instit\kurs2\oop\lab12\Otvety_na_voprosy_Lab_12.docx
+C:\instit\kurs2\oop\lab12\tf.js
+C:\instit\kurs2\oop\lab12\~$vety_na_voprosy_Lab_12.docx
